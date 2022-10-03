@@ -37,7 +37,7 @@ The Reidar DAO specializes in strategic investments for cryptocurrencies and dig
 
 Key Aspects:
 * Price per token historical chart
-* NFT asset information, current price in ETH, and predictive preformance (click the image!)
+* NFT asset information, current price in ETH, and predictive performance (click the image!)
 * Token asset information, current price in ETH
 
 For anyone who wants to replicate this website with thier own assets, check out <a href="#getting-started">Getting Started</a>
